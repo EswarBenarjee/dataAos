@@ -1,0 +1,51 @@
+
+FADE
+fade-up
+fade-down
+fade-right
+fade-left
+fade-up-right
+fade-up-left
+fade-down-right
+fade-dwon-left
+
+FLIP
+flip-left
+flip-right
+flip-up
+flip-down
+
+ZOOM
+zoom-in
+zoom-in-up
+zoom-in-down
+zoom-in-left
+zoom-in-right
+zoom-out
+zoom-out-up
+zoom-out-down
+zoom-out-left
+zoom-out-right
+
+DATA AOS DURATION
+
+DATA AOS EASING
+
+DATA AOS OFFSET
+
+DATA AOS ANCHOR
+
+DATA AOS ANCHOR PLACEMENT
+
+
+
+CSS
+<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+JS
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+INITIALIZATION OF AOS
+<script>
+  AOS.init();
+</script>
